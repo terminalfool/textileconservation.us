@@ -67,6 +67,7 @@ input::file-selector-button {
 }
 .left {float:left}
 .right {float:right; margin-right:20px}
+.rightbottom {float:right; margin-right:20px; padding-bottom: 14px;}
 .clear {clear:both}
 a:hover{
     fill:#9b4dca;
